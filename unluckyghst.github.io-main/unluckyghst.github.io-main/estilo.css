@@ -1,0 +1,166 @@
+ul{
+    list-style-type: none;
+}
+
+li{
+    display: inline;
+    padding: 1rem;
+}
+
+body{
+    background-color: rgb(241, 148, 200);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+a{
+    color: rgb(216, 16, 126)
+}
+
+a:hover {
+    color:rgb(100, 216, 96)
+}
+
+h1{
+    color:rgb(216, 16, 126)
+}
+
+h3{
+    color:rgb(216, 16, 126)
+}
+
+.galeria{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.galeria img:hover{
+    transform: scale(1.05);
+}
+
+img{
+    border-radius: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
